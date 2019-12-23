@@ -1,3 +1,3 @@
 # training
 
-second commit
+kaggle account >> Sohta_Kan_nan
